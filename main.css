@@ -1,0 +1,32 @@
+body{
+	background-color: hsl(345, 20%, 15%)
+}
+p{
+	color: white;
+	font-size: 40px;
+}
+
+.ball1{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	background-color: hsl(360, 40%, 60%);
+	top: 100px
+	left: 200px;
+}
+.ball2{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	background-color: hsl(90, 40%, 60%);
+	top: 100px
+	left: 200px;
+}
+.ball3{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	background-color: hsl(150, 50%, 50%);
+	top: 100px
+	left: 200px;
+}
